@@ -1,0 +1,20 @@
+requisitos funcionais:
+- Cadastrar cliente: Cadastrar o cliente na base de dados
+    Requisito: Nome e Sobrenome
+
+    Cenário: Cliente chega na loja para seu primeiro atendimento e deseja-se fazer o registo do mesmo em sistema.
+
+- Editar cliente: Em caso de falha humana ou alteração no nome do cliente, deseja-se fazer a atuliazação na base de dados.
+    Requisito: Cliente ja cadastrado, nome e sobrenome
+
+- Deletar cliente: Em caso de solicitação feita por cliente com base na LGPD, a deleção de seus dados em sistema.
+    Requisito: Cliente ja cadastrado, nome e sobrenome
+
+
+requisitos NÃO funcionais
+Computador
+Servidor de Aplicação
+Servidor de Banco de dados
+Navegador Web
+
+
